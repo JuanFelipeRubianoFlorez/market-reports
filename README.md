@@ -16,6 +16,7 @@ reports/
 
 | Fecha | Sentimiento | Enlace |
 |-------|-------------|--------|
+| 2026-04-29 | 🟡 Neutral / Mixto | [reporte-2026-04-29.md](reports/2026/04/reporte-2026-04-29.md) |
 | 2026-04-26 | 🟡 Neutral / Mixto | [reporte-2026-04-26.md](reports/2026/04/reporte-2026-04-26.md) |
 
 ---
