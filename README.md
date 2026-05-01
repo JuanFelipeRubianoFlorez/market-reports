@@ -16,6 +16,7 @@ reports/
 
 | Fecha | Sentimiento | Enlace |
 |-------|-------------|--------|
+| 2026-04-30 | 🟡 Neutral-Alcista | [reporte-2026-04-30.md](reports/2026/04/reporte-2026-04-30.md) |
 | 2026-04-26 | 🟡 Neutral / Mixto | [reporte-2026-04-26.md](reports/2026/04/reporte-2026-04-26.md) |
 
 ---
