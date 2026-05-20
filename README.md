@@ -16,6 +16,7 @@ reports/
 
 | Fecha | Sentimiento | Enlace |
 |-------|-------------|--------|
+| 2026-05-19 | 🔴 Bajista | [reporte-2026-05-19.md](reports/2026/05/reporte-2026-05-19.md) |
 | 2026-05-18 | 🔴 Bajista | [reporte-2026-05-18.md](reports/2026/05/reporte-2026-05-18.md) |
 | 2026-05-17 | 🟢 Alcista | [reporte-2026-05-17.md](reports/2026/05/reporte-2026-05-17.md) |
 | 2026-05-14 | 🟢 Alcista | [reporte-2026-05-14.md](reports/2026/05/reporte-2026-05-14.md) |
@@ -25,7 +26,6 @@ reports/
 | 2026-05-05 | 🟢 Alcista | [reporte-2026-05-05.md](reports/2026/05/reporte-2026-05-05.md) |
 | 2026-05-04 | 🔴 Bajista | [reporte-2026-05-04.md](reports/2026/05/reporte-2026-05-04.md) |
 | 2026-05-03 | 🟢 Alcista | [reporte-2026-05-03.md](reports/2026/05/reporte-2026-05-03.md) |
-| 2026-04-30 | 🟢 Alcista | [reporte-2026-04-30.md](reports/2026/04/reporte-2026-04-30.md) |
 
 ---
 
